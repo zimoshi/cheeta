@@ -1,0 +1,7 @@
+set <i:std::integer> to 0
+
+loop <get;i> < 3 {
+  call <std::print:function> with parms ("Flying to Seoul....")
+  set <i:std::integer> to <get;i> + 1
+}
+call <std::print:function> with parms ("Landed at Incheon International Airport")
