@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="logos/Cheeta.png" alt="Cheeta" width="200"/><img src="logos/OctoCatty.png" alt="Cheeta" width="200"/><br>
+  Cheeta & OctoCatty<br>
+</p>
+
 # 🐆 Cheeta — Lightweight Interpreted Language
+
+  ![Cheeta Version](https://img.shields.io/badge/cheeta-v0.8-blue)
+  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+  ![License](https://img.shields.io/badge/license-MCPL-green)
+  ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)
+  ![OctoCatty](https://img.shields.io/badge/octocatty-package_manager-orange)
+  ![Registry](https://img.shields.io/badge/registry-enabled-blueviolet)
 
 Cheeta is a fast, modular, interpreted programming language written in C++, designed to be extensible and beginner-friendly. It supports:
 
