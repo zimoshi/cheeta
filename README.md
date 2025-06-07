@@ -85,8 +85,8 @@ g++ octocatty.cpp -o octocatty --std=c++17
 cheeta/
 ├── cheeta.cpp          # Core interpreter
 ├── octocatty.cpp       # Package manager CLI
-├── cheeta.cpp          # Core interpreter, compiled 4 MacOS
-├── octocatty.cpp       # Package manager CLI, compiled 4 MacOS
+├── cheeta              # Core interpreter, compiled 4 MacOS arm64
+├── octocatty           # Package manager CLI, compiled 4 MacOS arm64
 ├── registry.json       # Module registry
 ├── modules/            # Installed modules (*.cts)
 │   └── std.cts
